@@ -1,0 +1,19 @@
+{
+  "name": "crispy-chainsaw",
+  "version": "1.0.0",
+  "description": "'Sonar Cloud & CI/CD Integration'",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tj-04/crispy-chainsaw.git"
+  },
+  "author": "Tejas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tj-04/crispy-chainsaw/issues"
+  },
+  "homepage": "https://github.com/tj-04/crispy-chainsaw#readme"
+}
