@@ -377,3 +377,24 @@ https://pixabay.com/videos/aerial-drone-lake-waterfall-rocks-85373/
         }
 
         { id: '7', taskId: '574ec415-3ff0-4f0a-b949-d2d2efc48d0f' } 
+
+
+
+        apiResponse  {
+  batchId: '20276813-c88a-4236-b157-a88ccf9a1d27',
+  accepted: [ { id: '7', taskId: 'e29eb03f-8db8-4cb6-9461-74e4fd968678' } ],
+  rejected: []
+}
+
+
+apiResponse  {
+  batchId: '04a63aeb-8d47-4cd0-9b04-96b58401ed9b',
+  accepted: [],
+  rejected: [
+    {
+      originalAd: [Object],
+      reason: 'Validation failed, please use ?verboseErrors=1 for detailed information',
+      errors: [Array]
+    }
+  ]
+}
